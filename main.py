@@ -2,7 +2,7 @@ from tkinter import *
 from timeit import default_timer as timer
 import random
 
-# Dictionary of sentences that can be selected
+# Dictionary of sentences that can be selected from at random
 SENTENCES = {
     1:{"sentence": "The quick brown fox jumps over the lazy dog.", "length": 9},
     2:{"sentence": "The more he talked of his honor the faster we counted our spoons.", "length": 13},
